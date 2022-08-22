@@ -1,7 +1,7 @@
 ### Hi there 👋
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FlorDeBruyne&theme=aura" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorDeBruyne&layout=compact&theme=aura" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorDeBruyne&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorDeBruyne&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
